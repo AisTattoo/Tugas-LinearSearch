@@ -7,7 +7,6 @@ int x(int arr[], int panjang, int a) {
 }
 return -1;
 }
-
 int main() {
     int arr[] = {8,5,3,4,10,11};
     int panjang = sizeof(arr)/sizeof(arr[0]);
